@@ -1,0 +1,6 @@
+selenium
+playwright
+APScheduler
+cryptography
+requests
+# 其他需要的库
